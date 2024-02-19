@@ -1,6 +1,6 @@
 ## OpenBoy - Python gameboy emulator v0.0.1b
 
-**IMPORTANT TO USE**: When you are loading a ROM with "load ..." your ROM must not contain spaces and must not be enclosed in quotation marks!!!
+**IMPORTANT TO USE**: When you are loading a ROM with "load ..." your ROM must not contain spaces and must not be enclosed in quotation marks!!! Example: ("load super mario bros.gb" <- Wrong) ("load 'super mario bros.gb'" <- Wrong) ("load mario.gb" <- Correct)
 
 **WARNING**: This tool has only been tested on Windows 11, but there is no reason why it should not work on other systems.
 
