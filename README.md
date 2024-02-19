@@ -14,3 +14,4 @@ cd OpenBoy
 pip3 install -r requirements.txt
 python3 openboy.py
 ```
+Copyright (c) RussianHzcker 2024
