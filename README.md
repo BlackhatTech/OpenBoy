@@ -4,7 +4,7 @@
 
 **WARNING**: This tool has only been tested on Windows 11, but there is no reason why it should not work on other systems.
 
-**DISCLAIMER**: The provider of this software is not responsible for any damage. (Read the LICENSE)
+**DISCLAIMER**: The provider of this software is not supporting piracy. (Read the LICENSE)
 
 OpenBoy is a simple gameboy emulator in Python.
 It using the pyboy library. (pip install pyboy)
