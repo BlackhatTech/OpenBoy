@@ -3,7 +3,8 @@ import os
 import sys
 import threading
 
-from pyboy import WindowEvent, PyBoy
+from pyboy.utils import WindowEvent
+from pyboy import PyBoy
 
 banner = r"""
   /$$$$$$                                /$$$$$$$                           
