@@ -1,4 +1,4 @@
-## OpenBoy - Python gameboy emulator v0.0.1b
+## OpenBoy - Python gameboy emulator v0.0.1b - OUTDATED! DOESNT WORK WITH NEWER PYBOY VERSIONS
 
 **IMPORTANT TO USE**: When you are loading a ROM with "load ..." your ROM must not contain spaces and must not be enclosed in quotation marks! For example: "load mario.gb" is correct. 
 
